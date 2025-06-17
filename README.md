@@ -13,4 +13,4 @@ A new Flutter project.
 <img src="screenshots/favorites.jpeg" width="300" />
 
 ### Search Screen
-<img src="screenshots/favorites.jpeg" width="300" />
+<img src="screenshots/search.jpeg" width="300" />
