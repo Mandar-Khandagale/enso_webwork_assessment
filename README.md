@@ -7,10 +7,10 @@ A new Flutter project.
 ## 📸 Screenshots
 
 ### Book List Screen
-![Book List](screenshots/books_list.jpeg)
+<img src="screenshots/books_list.jpeg" width="300" />
 
 ### Favorites Screen
-![Favorites](screenshots/favorites.jpeg)
+<img src="screenshots/favorites.jpeg" width="300" />
 
 ### Search Screen
-![Favorites](screenshots/favorites.jpeg)
+<img src="screenshots/favorites.jpeg" width="300" />
